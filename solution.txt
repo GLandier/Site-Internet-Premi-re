@@ -1,0 +1,45 @@
+index:
+mettre son nom
+
+ep1:
+continuer l'aventure
+
+ep2:
+fuir
+
+ep3:
+peux faire les deux
+
+ep4:
+prendre l'épée
+
+ep4bis:
+ramasser les objets
+
+ep5:
+Attaquer
+
+ep6:
+inspecter l'arme
+et rentrer le code vincent en nombre don "20100"
+
+ep6bis:
+inspecter le collier
+et rentrer le code vincent en nombre don "20100"
+
+ep7:
+aller tuer le dragon
+
+ep8:
+Attaquer
+
+ep9:
+Attaquer
+
+ep10:
+Attaquer
+
+ep11:
+lancer la fleur
+
+
