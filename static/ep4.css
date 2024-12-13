@@ -1,0 +1,22 @@
+body{
+	background-image: url("terrain4.png");
+	background-size: cover;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+	
+	
+a:link{color: white;}
+a:visited{color: white;}
+
+p{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	
+}
+	
